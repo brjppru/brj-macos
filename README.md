@@ -1,6 +1,11 @@
 # про макосю (macOS zverdvd)
 
-Про EOS, EOL и [https://computing.cs.cmu.edu/desktop/os-lifecycle/](жизненный цикл)
+- Про EOS, EOL и [https://computing.cs.cmu.edu/desktop/os-lifecycle/](жизненный цикл)
+- https://www.amazon.com/macOS-Mojave-Missing-Manual-should/dp/1492040401
+- https://support.apple.com/en-us/HT201236
+- https://dortania.github.io/OpenCore-Legacy-Patcher/INSTALLER.html#downloading
+- https://github.com/artginzburg/MiddleClick-BigSur
+- https://computing.cs.cmu.edu/desktop/os-lifecycle
 
 ### NTFS
 
