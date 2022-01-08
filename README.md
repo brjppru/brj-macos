@@ -1,4 +1,10 @@
-# macOS zverdvd
+# про макосю (macOS zverdvd)
+
+Про EOS, EOL и [https://computing.cs.cmu.edu/desktop/os-lifecycle/](жизненный цикл)
+
+### NTFS
+
+проверить драйвер [https://www.seagate.com/ru/ru/support/software/paragon/](ntfs)
 
 ## hw
 
