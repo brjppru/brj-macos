@@ -47,6 +47,8 @@ here is
 - vlc
 - iterm2
 - Rectangle
+- CheatSheet
+- 
 
 ## brew
 
