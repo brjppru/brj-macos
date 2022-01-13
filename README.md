@@ -7,6 +7,10 @@
 - https://github.com/artginzburg/MiddleClick-BigSur
 - https://computing.cs.cmu.edu/desktop/os-lifecycle
 
+### Клавиатура
+
+Хоткеи: ⇧ = Shift, ⌃ = Control, ⌘ = Command, ⌥ = Option / Alt.
+
 ### NTFS
 
 проверить драйвер [https://www.seagate.com/ru/ru/support/software/paragon/](ntfs)
