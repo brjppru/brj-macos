@@ -52,6 +52,9 @@ here is
 - iterm2
 - Rectangle
 - CheatSheet
+- numi
+- The Unarchiver
+- https://sponsor.ajay.app
 - 
 
 ## brew
