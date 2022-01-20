@@ -11,6 +11,12 @@
 
 Хоткеи: ⇧ = Shift, ⌃ = Control, ⌘ = Command, ⌥ = Option / Alt.
 
+### hostname
+
+```
+sudo scutil --set HostName
+```
+
 ### NTFS
 
 проверить драйвер [https://www.seagate.com/ru/ru/support/software/paragon/](ntfs)
