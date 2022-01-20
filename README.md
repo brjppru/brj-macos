@@ -11,6 +11,12 @@
 
 Хоткеи: ⇧ = Shift, ⌃ = Control, ⌘ = Command, ⌥ = Option / Alt.
 
+### boot flash / reinstall
+
+```
+brjppru@Romans-MacBook-Air ~ % sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /volumes/macos12
+```
+
 ### hostname
 
 ```
