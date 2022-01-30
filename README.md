@@ -75,4 +75,6 @@ here is
 - mtr
 - ffmpeg
 - fdupes
+- marta
+- borgbackup
 
